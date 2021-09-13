@@ -1,1 +1,2 @@
-# repositorio-da-aula-27b-de-git-e-github
+# AULA_27B
+Repositório teste para a aula 27 da turma B, sobre GIT e GitHub
